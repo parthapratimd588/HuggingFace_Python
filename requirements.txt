@@ -1,3 +1,4 @@
-langchain-community 
-huggingface-hub
-streamlit
+langchain-community==0.2.1
+langchain-core==0.2.1
+streamlit==1.35.0
+huggingface-hub==0.23.1
